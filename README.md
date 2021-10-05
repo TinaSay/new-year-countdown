@@ -2,6 +2,10 @@
 
 Landing page that counts down from the current date to the next new year
 
+## Demo
+
+https://tinasay.github.io/new-year-countdown/
+
 ## Project Specifications
 
 - Create landing page with HTML/CSS
